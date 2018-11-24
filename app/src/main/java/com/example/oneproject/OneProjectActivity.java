@@ -10,6 +10,7 @@ public class OneProjectActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.one_project_layout);
+        //hahakhhkhkhk
         Log.d("data","onCreate execute");
 
 
